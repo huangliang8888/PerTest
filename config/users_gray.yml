@@ -1,0 +1,9 @@
+- clinicId: 12345678
+  clinic_name: A门店
+  openId: abcd
+- clinicId: qadfadsfad
+  clinic_name: B门店
+  openId: abcdadfe
+- clinicId: 1111111
+  clinic_name: C门店
+  openId: adfasdfasdf
